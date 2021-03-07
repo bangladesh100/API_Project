@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1976" started-at="2021-03-07T06:28:08Z" finished-at="2021-03-07T06:28:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1976" started-at="2021-03-07T06:28:08Z" finished-at="2021-03-07T06:28:10Z">
+      <class name="apidemo.ApiGet1">
+        <test-method status="PASS" signature="getWeatherDetails1()[pri:0, instance:apidemo.ApiGet1@258e2e41]" name="getWeatherDetails1" duration-ms="1843" started-at="2021-03-07T06:28:08Z" finished-at="2021-03-07T06:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails1 -->
+        <test-method status="PASS" signature="getWeatherDetails2()[pri:0, instance:apidemo.ApiGet1@258e2e41]" name="getWeatherDetails2" duration-ms="31" started-at="2021-03-07T06:28:10Z" finished-at="2021-03-07T06:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails2 -->
+        <test-method status="PASS" signature="getWeatherDetails3()[pri:0, instance:apidemo.ApiGet1@258e2e41]" name="getWeatherDetails3" duration-ms="20" started-at="2021-03-07T06:28:10Z" finished-at="2021-03-07T06:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails3 -->
+        <test-method status="PASS" signature="getWeatherDetails4()[pri:0, instance:apidemo.ApiGet1@258e2e41]" name="getWeatherDetails4" duration-ms="31" started-at="2021-03-07T06:28:10Z" finished-at="2021-03-07T06:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails4 -->
+        <test-method status="PASS" signature="getWeatherDetails5()[pri:0, instance:apidemo.ApiGet1@258e2e41]" name="getWeatherDetails5" duration-ms="20" started-at="2021-03-07T06:28:10Z" finished-at="2021-03-07T06:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails5 -->
+      </class> <!-- apidemo.ApiGet1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
